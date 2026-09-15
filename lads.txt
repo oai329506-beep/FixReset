@@ -1,8 +1,8 @@
-strContent = Khi có thông báo này hiện lên tức là chúng tôi đã chặn reset mod cho bạn. Hãy trả lời câu hỏi sau: Bạn thường ăn gì thay cơm?
+strContent = Nếu bạn đang mod bằng Z MOD SKIN ( bản thường ) thì hãy lên CH Play tải bản Z MOD SKIN PRO hoặc ấn nút tải app ở bên phải còn nếu đang sử dụng bản PRO thì hãy ấn nút bên trái, trong thời gian sắp tới chúng tôi sẽ tạm ngừng hoạt động bên app Z MOD SKIN này và chuyển hẳn sang Z MOD SKIN PRO nhé!
 hasCancelBtn = true
-onConfirm = nil
+onConfirm = https://play.google.com/store/apps/details?id=com.prozmodskin.app
 onCancel = nil
-confirmStr = Cứt Chó
-cancelStr = Cứt của TAO
+confirmStr = Tải App
+cancelStr = Đã Hiểu
 titleStr = Z MOD SKIN PRO
 isShowCloseBtn = true
