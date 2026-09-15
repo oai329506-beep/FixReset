@@ -1,8 +1,8 @@
-strContent = Mod by lads mod
+strContent = Tôi có đẹp trai không
 hasCancelBtn = true
 onConfirm = nil
 onCancel = nil
-confirmStr = Đã hiểu
-cancelStr = Đã hiểu
-titleStr = Mod by z mod skin
+confirmStr = Không
+cancelStr = Có
+titleStr = Z MOD SKIN PRO
 isShowCloseBtn = true
