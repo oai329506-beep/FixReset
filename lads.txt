@@ -1,8 +1,8 @@
-strContent = Tôi có đẹp trai không
+strContent = Khi có thông báo này hiện lên tức là chúng tôi đã chặn reset mod cho bạn. Hãy trả lời câu hỏi sau: Bạn thường ăn gì thay cơm?
 hasCancelBtn = true
 onConfirm = nil
 onCancel = nil
-confirmStr = Không
-cancelStr = Có
+confirmStr = Cứt Chó
+cancelStr = Cứt của TAO
 titleStr = Z MOD SKIN PRO
 isShowCloseBtn = true
