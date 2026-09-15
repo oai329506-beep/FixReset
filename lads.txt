@@ -1,0 +1,8 @@
+strContent = Mod by lads mod
+hasCancelBtn = true
+onConfirm = nil
+onCancel = nil
+confirmStr = Đã hiểu
+cancelStr = Đã hiểu
+titleStr = Mod by z mod skin
+isShowCloseBtn = true
