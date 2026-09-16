@@ -2,7 +2,7 @@ strContent = "File mod được hoàn thiện bởi <color=#00FF00>LADS MOD</col
 hasCancelBtn = true
 onConfirm = "https://youtube.com/@motmod2008?si=nJhv72Wdxal4MoEZ"
 onCancel = nil
-confirmStr = "<color=#FF0000>Kênh Youtube</color>"
+confirmStr = "Kênh Youtube"
 cancelStr = "Đã Hiểu"
 titleStr = "<color=#FFD700>Hạn sử dụng đến hết ngày 16/9</color>"
 isShowCloseBtn = true
