@@ -1,8 +1,8 @@
-strContent = <color=#00FF00>File mod được hoàn thiện bởi LADS MOD</color>\n<color=#FFD700>Bấm "Đã Hiểu" để tiếp tục mod.</color>\n<color=#FF0000>Bấm Kênh Youtube để truy cập kênh.</color>
+strContent = File mod được hoàn thiện bởi <color=#00FF00>LADS MOD</color>\nBấm "Đã Hiểu" để tiếp tục mod.\nBấm <color=#FF0000>Kênh Youtube để truy cập kênh.
 hasCancelBtn = true
 onConfirm = https://youtube.com/@motmod2008?si=nJhv72Wdxal4MoEZ
 onCancel = nil
-confirmStr = Kênh Youtube
+confirmStr = </color>\n<color=#FF0000>Kênh Youtube</color>
 cancelStr = Đã Hiểu
-titleStr = Hạn sử dụng đến hết ngày 16/9
+titleStr = <color=#FFD700>Hạn sử dụng đến hết ngày 16/9</color>
 isShowCloseBtn = true
