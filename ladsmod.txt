@@ -1,4 +1,4 @@
-strContent = File mod được hoàn thiện bởi <color=#00FF00>LADS MOD</color>\nBấm Đã Hiểu để tiếp tục mod.\nBấm <color=#FF0000>Kênh Youtube</color> để truy cập kênh.
+strContent = File mod được hoàn thiện bởi <color=#00FF00>LADS MOD</color>\nBấm "Đã Hiểu" để tiếp tục mod.\nBấm <color=#FF0000>Kênh Youtube</color> để truy cập kênh.
 hasCancelBtn = true
 onConfirm = https://youtube.com/@motmod2008?si=nJhv72Wdxal4MoEZ
 onCancel = nil
