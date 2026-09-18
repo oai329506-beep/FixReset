@@ -1,0 +1,8 @@
+strContent = File mod được hoàn thiện bởi <color=#00FF00><i><b>Hz MOD</b></i></color>\nẤn <color=#FFFF00><i>Zalo</i></color> để liên hệ HzMod.\nẤn <color=#FFFF00><i>Kênh Youtube</i></color> để truy cập kênh.
+hasCancelBtn = true
+onConfirm = https://www.youtube.com/@HzloveHCute
+onCancel = https://zalo.me/0904393078
+confirmStr = <color=#FF0000>Kênh Youtube</color>
+cancelStr = Zalo
+titleStr = <color=#FFD700>Hạn sử dụng File MOD: Còn</color>
+isShowCloseBtn = true
