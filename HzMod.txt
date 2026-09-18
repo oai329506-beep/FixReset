@@ -1,4 +1,4 @@
-strContent = File mod được hoàn thiện bởi <color=#00FF00><i><b>Hz MOD</b></i></color>\nMọi Người có Nhu Cầu Sắm iPhone / iPad Liên Hệ Zalo Hz\n(Địa Chỉ Trực Tiếp Hà Nội + Có Nhận Ship COD)\niOS Có Nhu Cầu Đăng Kí Chứng Chỉ Riêng thì Liên Hệ Zalo Hz nhé.\nẤn <color=#FFFF00><i>Zalo</i></color> để liên hệ HzMod.\nẤn <color=#FFFF00><i>Kênh Youtube</i></color> để truy cập kênh.
+strContent = File mod được hoàn thiện bởi <color=#00FF00><i><b>Hz MOD</b></i></color>\nMọi người mua iPhone/iPad liên hệ Zalo Hz (Sỉ/Lẻ - Ship COD)\nPhân phối chứng chỉ iOS riêng liên hệ Zalo Hz\nẤn <color=#FFFF00><i>Zalo</i></color> để liên hệ HzMod\nẤn <color=#FFFF00><i>Kênh Youtube</i></color> để truy cập kênh
 hasCancelBtn = true
 onConfirm = https://www.youtube.com/@HzloveHCute
 onCancel = https://zalo.me/0904393078
