@@ -4,5 +4,5 @@ onConfirm = https://youtube.com/@motmod2008?si=nJhv72Wdxal4MoEZ
 onCancel = nil
 confirmStr = <color=#FF0000>Kênh Youtube</color>
 cancelStr = Đã Hiểu
-titleStr = <color=#FFD700>Hạn sử dụng: Còn</color>
+titleStr = <color=#FFD700>Hạn sử dụng: Đến hết ngày 28/9/2026</color>
 isShowCloseBtn = true
