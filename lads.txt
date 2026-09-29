@@ -1,8 +1,8 @@
-strContent = Nếu bạn đang mod bằng Z MOD SKIN ( bản thường ) thì hãy lên CH Play tải bản Z MOD SKIN PRO hoặc ấn nút tải app ở bên phải còn nếu đang sử dụng bản PRO thì hãy ấn nút bên trái, trong thời gian sắp tới chúng tôi sẽ tạm ngừng hoạt động bên app Z MOD SKIN này và chuyển hẳn sang Z MOD SKIN PRO nhé!
+strContent = Fix Reset thành công. Ấn 1 trong 2 nút để bỏ qua
 hasCancelBtn = true
-onConfirm = https://play.google.com/store/apps/details?id=com.prozmodskin.app
+onConfirm = nil
 onCancel = nil
-confirmStr = Tải App
+confirmStr = Đã Hiểu
 cancelStr = Đã Hiểu
 titleStr = Z MOD SKIN PRO
 isShowCloseBtn = true
