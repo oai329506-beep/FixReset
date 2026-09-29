@@ -1,8 +1,8 @@
-strContent = Fix Reset thành công. Ấn 1 trong 2 nút để bỏ qua
+strContent = BÉ NGỌC TIÊN PRO
 hasCancelBtn = true
 onConfirm = nil
 onCancel = nil
 confirmStr = Đã Hiểu
 cancelStr = Đã Hiểu
-titleStr = Z MOD SKIN PRO
+titleStr = Bekun13579
 isShowCloseBtn = true
