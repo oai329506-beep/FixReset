@@ -1,0 +1,8 @@
+strContent = Fix Reset thành công. Ấn 1 trong 2 nút để bỏ qua
+hasCancelBtn = true
+onConfirm = nil
+onCancel = nil
+confirmStr = Đã Hiểu
+cancelStr = Đã Hiểu
+titleStr = Z MOD SKIN PRO
+isShowCloseBtn = true
