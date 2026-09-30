@@ -4,5 +4,5 @@ onConfirm = https://www.youtube.com/@HzloveHCute
 onCancel = https://zalo.me/0904393078
 confirmStr = <color=#FF0000>Youtube</color>
 cancelStr = Zalo
-titleStr = <color=#FFD700>Hạn sử dụng File MOD: Đến hết ngày 28/9/2026</color>
+titleStr = <color=#FFD700>UPDATE: 29/09/2026</color>
 isShowCloseBtn = true
