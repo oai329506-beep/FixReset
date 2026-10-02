@@ -4,5 +4,5 @@ onConfirm = https://www.youtube.com/@thvumodelskin
 onCancel = https://www.facebook.com/tuanthanhkt1/
 confirmStr = Kênh Youtube
 cancelStr = Facebook
-titleStr = <color=#FFD700>Update 29/09/2026</color>
+titleStr = <color=#FFD700>Update: 29/09/2026</color>
 isShowCloseBtn = true
