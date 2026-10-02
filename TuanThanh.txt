@@ -1,8 +1,8 @@
-strContent = File mod được hoàn thiện bởi <color=#00FF00><i><b>Thvu Mod</b></i></color>\nẤn <color=#FF0000><i>Facebook</i></color> để tiếp tục sử dụng mod.\nẤn <color=#FF0000><i>Kênh Youtube</i></color> để truy cập kênh.
+strContent = File mod được hoàn thiện bởi <color=#00FF00><i><b>Thvu Mod</b></i></color>\nẤn <color=#FFD700><i>Facebook</i></color> để liên hệ mình.\nẤn <color=#FF0000><i>Kênh Youtube</i></color> để truy cập kênh.
 hasCancelBtn = true
 onConfirm = https://www.youtube.com/@thvumodelskin
 onCancel = https://www.facebook.com/tuanthanhkt1/
 confirmStr = <color=#FF0000>Kênh Youtube</color>
-cancelStr = <color=#FF0000>Facebook</color>
+cancelStr = <color=#FFD700>Facebook</color>
 titleStr = <color=#FFD700>Hạn sử dụng: Update 29/9/2026</color>
 isShowCloseBtn = true
