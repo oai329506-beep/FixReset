@@ -1,4 +1,4 @@
-strContent = Fix Reset thành công. Ấn 1 trong 2 nút để bỏ qua
+strContent = Fix Reset thành công. Ấn 1 trong 2 nút để bỏ qua\n Nếu đang sử dụng mod có lauriel vũ khúc miêu ảnh vui lòng lên app mod lại.
 hasCancelBtn = true
 onConfirm = nil
 onCancel = nil
